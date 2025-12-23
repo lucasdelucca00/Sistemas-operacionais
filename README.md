@@ -1,4 +1,3 @@
-# Sistemas-operacionais
 Trabalhos relacionados a disciplina de sistemas operacionais 
 
 Trabalho 1: Sinais - Escreva um programa que realiza tratamento de sinais POSIX. O programa deve:
